@@ -1,1 +1,3 @@
-Para rodar o projeto, é necessário ter o arquivo 'access.log' disponível em: http://cti.videira.ifc.edu.br/~angelita/access.log
+Para rodar, é necessário possuir o arquivo 'access.log' dentro da raíz do projeto.
+
+Arquivo disponível em: http://cti.videira.ifc.edu.br/~angelita/access.log
